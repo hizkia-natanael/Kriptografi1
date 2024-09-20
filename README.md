@@ -32,7 +32,7 @@ Dokumentasi ini menjelaskan cara menggunakan program Kriptografi Ciphers yang di
 
 8. **Lihat Hasil**
    - Hasil enkripsi atau dekripsi dapat dilihat di bagian **"Output Text"**.
-
-Contoh: 
-![image](https://github.com/user-attachments/assets/97a5f706-7b6a-4044-a235-5ec438cc0ece)
+  
+ **Contoh:**
+   ![image](https://github.com/user-attachments/assets/97a5f706-7b6a-4044-a235-5ec438cc0ece)
 
